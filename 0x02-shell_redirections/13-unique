@@ -1,2 +1,2 @@
 #!/bin/bash
-ca t | sort | uniq -c
+sort | uniq -u
