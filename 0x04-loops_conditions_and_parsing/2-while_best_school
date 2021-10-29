@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # displays Best School 10 times.
-x=1
-while [ $x -le 10 ]
+a=1
+while [ $a -le 10 ]
 do
     echo "Best School"
-    x=$(( x + 1 ))
+    a=$(( a + 1 ))
 done
